@@ -3,6 +3,8 @@
 /**
  * Abstract representation of order-able objects
  *
+ * @since 1.0.0
+ *
  * Created by PhpStorm.
  * @author Tim K.
  * Date: 11/19/2015
