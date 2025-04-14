@@ -29,8 +29,8 @@ This section will display the current order and any discounts being applied.
 Here you can add a discount to either shakes or floats. This discount will be applied to all items of that type for the
 current order. One or both discounts can be applied to the order.
 
-Discount for shakes: BASHAKE
-Discount for floats: BAFLOAT
+ - Discount for shakes: BASHAKE
+ - Discount for floats: BAFLOAT
 
-###Submit Order###
+### Submit Order
 Clicking 'Submit Order' will clear the current order and any discounts. 
