@@ -8,24 +8,24 @@ The main app is located in the index.php file. When the site loads up you'll see
 separate form (Current Order section has 2 forms, one for submitting the order and one for discounts) so clicking the submit 
 button will only take into account the info in that section.
 
-##Ice Cream:##
+## Ice Cream:
 This section is used for ordering an ice cream cone.
 User MUST select at least 1 ice cream and 1 container. If 'Ice Cream Flavour 1' or 'Cone/Container:' are left at default
 the ice cream will not be added to the order.
 
-##Shake:##
+## Shake:
 This section is used for ordering an ice cream cone.
 User MUST select at least 1 ice cream and 1 milk. If 'Ice Cream Flavour' or 'Milk:' are left at default
 the shake will not be added to the order.
 
-##Float:##
+## Float:
 This section is used for ordering an ice cream cone.
 User MUST select at least 1 soda. If 'Soda' is left at default the float will not be added to the order.
 
-##Current Order:##
+## Current Order:
 This section will display the current order and any discounts being applied.
 
-###Add Discount###
+### Add Discount
 Here you can add a discount to either shakes or floats. This discount will be applied to all items of that type for the
 current order. One or both discounts can be applied to the order.
 
